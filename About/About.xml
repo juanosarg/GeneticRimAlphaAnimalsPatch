@@ -1,0 +1,26 @@
+<ModMetaData>
+	<name>GeneticRim Alpha Animals Patch</name>
+	<author>Sarg</author>
+	<supportedVersions><li>1.0</li></supportedVersions>
+	<description>Extract DNA from animals and hybridize them to create new, exotic species!
+
+&lt;size=24&gt;Features&lt;/size&gt;
+- Adds nine hybrids between vanilla creatures and animals from the Alpha Animals mod!
+- Adds a new building, the Alpha genepod, to mix genes from alpha animals and create your hybrids.
+
+&lt;size=24&gt;Load Order&lt;/size&gt;
+- As with all patch mods, be sure to call it after Alpha Animals mod and GeneticRim mod, or else you'll get some errors.
+
+&lt;size=24&gt;Compatibility&lt;/size&gt;
+Compatible with A Dog Said
+Should be savegame compatible and not break anything. Should!
+
+&lt;size=24&gt;Credit&lt;/size&gt;
+Credit goes to A_friend for his work on Alpha Animals graphics.
+
+&lt;size=24&gt;Changelog&lt;/size&gt;
+v1.0: Release
+
+
+		</description>
+</ModMetaData>
