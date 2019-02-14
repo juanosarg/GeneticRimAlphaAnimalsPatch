@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+	<RecipeDef>
+		<defName>GR_FossilfuelToFuel</defName>
+		<label>make chemfuel from fossil fuel</label>
+		<description>Make a batch of chemfuel by converting fossil fuel.</description>
+		<jobString>Refining chemfuel from fossil fuel.</jobString>
+		<effectWorking>Cremate</effectWorking>
+		<soundWorking>Recipe_Cremate</soundWorking>
+		<workAmount>200</workAmount>
+		<recipeUsers>
+				<li>BiofuelRefinery</li>	  
+		</recipeUsers>	
+		<workSkill>Intellectual</workSkill>
+		<allowMixingIngredients>true</allowMixingIngredients>
+		<ingredients>
+			<li>
+				<filter>
+				  <thingDefs>
+					<li>GR_FossilChemfuel</li>
+				  </thingDefs>
+				</filter>
+				<count>25</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>GR_FossilChemfuel</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		
+		<products>
+			<Chemfuel>25</Chemfuel>
+		</products>
+	</RecipeDef>
+
+
+</Defs>
