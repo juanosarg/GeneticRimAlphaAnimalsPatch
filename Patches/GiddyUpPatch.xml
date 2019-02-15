@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="ModCheck.isModLoaded">
+				<modName>Giddy-up! Battle Mounts</modName>
+				<yourMod>GeneticRim Alpha Animals Patch</yourMod>
+			</li>
+
+
+
+			<li Class="PatchOperationAddModExtension">
+				<xpath>/Defs/ThingDef[defName = "GR_MeadowLizard"]</xpath> 
+				<value>
+					<li Class="GiddyUpCore.CustomStatsPatch">
+						<!--Speed factor. -->
+						<speedModifier>1.95</speedModifier>
+						<!--Armor factor. -->
+						<armorModifier>1</armorModifier>
+						<!--Setting useMetalArmor to true, makes the animal's skin have the metal bounce of effect when hit when used as mount --> 
+						<useMetalArmor>false</useMetalArmor>
+					</li>
+				</value>
+			</li>
+			
+			
+
+
+		
+
+
+
+		</operations>
+	</Operation>
+
+
+</Patch>
+
