@@ -235,7 +235,7 @@
 			
 			<!-- Trained behavior: Mine-->
             <li Class="ThinkNode_ChancePerHour_Constant">
-              <mtbHours>2.5</mtbHours>
+              <mtbHours>1.75</mtbHours>
               <subNodes>
                 <li Class="ThinkNode_ConditionalTrainableCompleted">
                   <trainable>Obedience</trainable>

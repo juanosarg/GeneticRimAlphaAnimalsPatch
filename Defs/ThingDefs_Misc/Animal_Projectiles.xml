@@ -34,7 +34,7 @@
     <projectile>
       <flyOverhead>false</flyOverhead>
       <damageDef>AA_ToxicSting</damageDef>
-      <damageAmountBase>1</damageAmountBase>
+      <damageAmountBase>2</damageAmountBase>
       <speed>35</speed>
     </projectile>
   </ThingDef>
@@ -51,7 +51,7 @@
     <projectile>
       <flyOverhead>false</flyOverhead>
       <damageDef>AA_ToxicSting</damageDef>
-      <damageAmountBase>30</damageAmountBase>
+      <damageAmountBase>40</damageAmountBase>
       <speed>20</speed>
     </projectile>
   </ThingDef>
