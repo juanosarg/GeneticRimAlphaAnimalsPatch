@@ -1645,7 +1645,7 @@
 				<adrenalineburst>true</adrenalineburst>
 			</li>
 			<li Class="AlphaBehavioursAndEvents.CompProperties_Regeneration">
-				<rateInTicks>800</rateInTicks>
+				<rateInTicks>20</rateInTicks>
 
 			</li>
 			

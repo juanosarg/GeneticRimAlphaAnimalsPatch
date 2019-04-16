@@ -21,7 +21,7 @@
 				<filter>
 
 					<thingDefs>
-						<li>Corpse_AA_Aerofleet</li>
+					<li>Corpse_AA_Aerofleet</li>
 					<li>Corpse_AA_ColossalAerofleet</li>
 					<li>Corpse_AA_BlackScarab</li>
 					<li>Corpse_AA_BlackSpelopede</li>
@@ -63,6 +63,22 @@
 					<li>Corpse_AA_FeraliskClutchMother</li>
 					<li>Corpse_AA_DunealiskClutchMother</li>
 					<li>Corpse_AA_SummitCrab</li>
+					
+					<li>Corpse_AA_DecayDrake</li>
+					<li>Corpse_AA_FissionMouse</li>
+					<li>Corpse_AA_FissionMouseSecond</li>
+					<li>Corpse_AA_FissionMouseThird</li>
+					<li>Corpse_AA_ShockGoat</li>
+					<li>Corpse_AA_OcularJelly</li>
+					<li>Corpse_AA_Skyeel</li>
+					<li>Corpse_AA_Radyak</li>
+					<li>Corpse_AA_SandLion</li>
+					<li>Corpse_AA_Mantrap</li>
+					<li>Corpse_AA_Gigantelope</li>
+
+
+					
+					
 
 
 
@@ -118,6 +134,18 @@
 					<li>Corpse_AA_FeraliskClutchMother</li>
 					<li>Corpse_AA_DunealiskClutchMother</li>
 					<li>Corpse_AA_SummitCrab</li>
+					
+					<li>Corpse_AA_DecayDrake</li>
+					<li>Corpse_AA_FissionMouse</li>
+					<li>Corpse_AA_FissionMouseSecond</li>
+					<li>Corpse_AA_FissionMouseThird</li>
+					<li>Corpse_AA_ShockGoat</li>
+					<li>Corpse_AA_OcularJelly</li>
+					<li>Corpse_AA_Skyeel</li>
+					<li>Corpse_AA_Radyak</li>
+					<li>Corpse_AA_SandLion</li>
+					<li>Corpse_AA_Mantrap</li>
+					<li>Corpse_AA_Gigantelope</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
