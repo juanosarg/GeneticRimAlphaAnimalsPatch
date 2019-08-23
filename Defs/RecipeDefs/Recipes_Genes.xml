@@ -75,6 +75,14 @@
 					<li>Corpse_AA_SandLion</li>
 					<li>Corpse_AA_Mantrap</li>
 					<li>Corpse_AA_Gigantelope</li>
+					
+					<li>Corpse_AA_InfectedAerofleet</li>
+					<li>Corpse_AA_RedGoo</li>
+					<li>Corpse_AA_GreenGoo</li>
+					<li>Corpse_AA_RedSpore</li>
+					<li>Corpse_AA_Junglelisk</li>
+					<li>Corpse_AA_MycoidColossus</li>
+					<li>Corpse_AA_Agaripod</li>
 
 
 					
@@ -146,6 +154,14 @@
 					<li>Corpse_AA_SandLion</li>
 					<li>Corpse_AA_Mantrap</li>
 					<li>Corpse_AA_Gigantelope</li>
+					
+					<li>Corpse_AA_InfectedAerofleet</li>
+					<li>Corpse_AA_RedGoo</li>
+					<li>Corpse_AA_GreenGoo</li>
+					<li>Corpse_AA_RedSpore</li>
+					<li>Corpse_AA_Junglelisk</li>
+					<li>Corpse_AA_MycoidColossus</li>
+					<li>Corpse_AA_Agaripod</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
