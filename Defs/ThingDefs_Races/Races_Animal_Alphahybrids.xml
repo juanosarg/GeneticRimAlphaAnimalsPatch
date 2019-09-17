@@ -1225,6 +1225,10 @@
         <chanceFactor>0.2</chanceFactor>
       </li>
     </tools>
+	<li Class="DraftingPatcher.CompProperties_Draftable">
+				<dinostamina>true</dinostamina>
+<burrowing>true</burrowing>
+			</li>
 		<race>
 	<thinkTreeMain>AA_AnimalNuzzlerDraftable</thinkTreeMain>
 
@@ -1327,7 +1331,7 @@
 	<ThingDef ParentName="AnimalThingBase">
 		<defName>GR_Nighthrumbo</defName>
 		<label>nighthrumbo</label>
-		<description>The nighthrumbo is a fearsome predator. Armed with strong jaws and its horn, as well as ranged quill attacks, it will make quick work of any prey it decides to attack.\n\nUseful abilities: Ranged quill attacks.</description>
+		<description>The nighthrumbo is a fearsome predator. Armed with strong jaws and its horn, as well as ranged quill attacks, it will make quick work of any prey it decides to attack. It is also a nocturnal animal, sleeping during the day and being active at night.\n\nUseful abilities: Ranged quill attacks.</description>
 
 
 		<statBases>

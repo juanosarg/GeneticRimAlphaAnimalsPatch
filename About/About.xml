@@ -19,6 +19,7 @@ Should be savegame compatible and not break anything. Should!
 Credit goes to A_friend for his work on Alpha Animals graphics.
 
 &lt;size=24&gt;Changelog&lt;/size&gt;
+v1.04: Added animal control abilities to the Animus Hare. Added nocturnal animal code to the Nighthrumbo (17/09/19)
 v1.03: Added the seven new animals to genetic extraction table. Changed all hybrids to use GeneticAnimal instead of ExoticAnimal so they don't appear on modded merchants (23/08/19)
 v1.02: Added the nine new animals to genetic extraction table. Small bugfixes (16/04/19)
 v1.0: Release (16/02/19)
