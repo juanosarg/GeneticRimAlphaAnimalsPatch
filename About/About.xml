@@ -1,7 +1,11 @@
 <ModMetaData>
 	<name>GeneticRim Alpha Animals Patch</name>
 	<author>Sarg</author>
-	<supportedVersions><li>1.0</li></supportedVersions>
+	<supportedVersions>
+      <li>1.0</li>
+      <li>1.1</li>
+   </supportedVersions>
+	<packageId>sarg.geneticrimalphaanimals</packageId>
 	<description>Extract DNA from animals and hybridize them to create new, exotic species!
 
 &lt;size=24&gt;Features&lt;/size&gt;
@@ -19,6 +23,7 @@ Should be savegame compatible and not break anything. Should!
 Credit goes to A_friend for his work on Alpha Animals graphics.
 
 &lt;size=24&gt;Changelog&lt;/size&gt;
+v1.1: Updated for RimWorld 1.1 (19/02/20)
 v1.04: Added animal control abilities to the Animus Hare. Added nocturnal animal code to the Nighthrumbo (17/09/19)
 v1.03: Added the seven new animals to genetic extraction table. Changed all hybrids to use GeneticAnimal instead of ExoticAnimal so they don't appear on modded merchants (23/08/19)
 v1.02: Added the nine new animals to genetic extraction table. Small bugfixes (16/04/19)
