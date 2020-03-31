@@ -21,76 +21,98 @@
 				<filter>
 
 					<thingDefs>
-					<li>Corpse_AA_Aerofleet</li>
-					<li>Corpse_AA_ColossalAerofleet</li>
-					<li>Corpse_AA_BlackScarab</li>
-					<li>Corpse_AA_BlackSpelopede</li>
-					<li>Corpse_AA_BlackSpider</li>
-					<li>Corpse_AA_ArcticLion</li>
-					<li>Corpse_AA_Barbslinger</li>
-					<li>Corpse_AA_Blizzarisk</li>
-					<li>Corpse_AA_BoulderMit</li>
-					<li>Corpse_AA_Cactipine</li>
-					<li>Corpse_AA_DevilSheep</li>
-					<li>Corpse_AA_Dunealisk</li>
-					<li>Corpse_AA_Feralisk</li>
-					<li>Corpse_AA_Frostmite</li>
-					<li>Corpse_AA_Gallatross</li>
-					<li>Corpse_AA_Groundrunner</li>
-					<li>Corpse_AA_IronhuskBeetle</li>
-					<li>Corpse_AA_Lockjaw</li>
-					<li>Corpse_AA_MammothWorm</li>
-					<li>Corpse_AA_MeadowAve</li>
-					<li>Corpse_AA_MegaLouse</li>
-					<li>Corpse_AA_Needlepost</li>
-					<li>Corpse_AA_Nightling</li>
-					<li>Corpse_AA_RaptorShrimp</li>
-					<li>Corpse_AA_TetraSlug</li>
-					<li>Corpse_AA_Wildpod</li>
+						<li>Corpse_AA_Aerofleet</li>
+						<li>Corpse_AA_ColossalAerofleet</li>
+						<li>Corpse_AA_BlackScarab</li>
+						<li>Corpse_AA_BlackSpelopede</li>
+						<li>Corpse_AA_BlackSpider</li>
+						<li>Corpse_AA_ArcticLion</li>
+						<li>Corpse_AA_Barbslinger</li>
+						<li>Corpse_AA_Blizzarisk</li>
+						<li>Corpse_AA_BoulderMit</li>
+						<li>Corpse_AA_Cactipine</li>
+						<li>Corpse_AA_DevilSheep</li>
+						<li>Corpse_AA_Dunealisk</li>
+						<li>Corpse_AA_Feralisk</li>
+						<li>Corpse_AA_Frostmite</li>
+						<li>Corpse_AA_Gallatross</li>
+						<li>Corpse_AA_Groundrunner</li>
+						<li>Corpse_AA_IronhuskBeetle</li>
+						<li>Corpse_AA_Lockjaw</li>
+						<li>Corpse_AA_MammothWorm</li>
+						<li>Corpse_AA_MeadowAve</li>
+						<li>Corpse_AA_MegaLouse</li>
+						<li>Corpse_AA_Needlepost</li>
+						<li>Corpse_AA_Nightling</li>
+						<li>Corpse_AA_RaptorShrimp</li>
+						<li>Corpse_AA_TetraSlug</li>
+						<li>Corpse_AA_Wildpod</li>
 
-					<li>Corpse_AA_Wildpawn</li>
-					<li>Corpse_AA_BedBug</li>
-					<li>Corpse_AA_Needleroll</li>
-					<li>Corpse_AA_AnimusVox</li>
-					<li>Corpse_AA_PebbleMit</li>
-					<li>Corpse_AA_Bumbledrone</li>
-					<li>Corpse_AA_BumbledroneQueen</li>
-					<li>Corpse_AA_Thermadon</li>
-					<li>Corpse_AA_SandSquid</li>
-					<li>Corpse_AA_OvergrownColossus</li>
-					<li>Corpse_AA_GreatDevourer</li>
-					<li>Corpse_AA_BlizzariskClutchMother</li>					
-					<li>Corpse_AA_FeraliskClutchMother</li>
-					<li>Corpse_AA_DunealiskClutchMother</li>
-					<li>Corpse_AA_SummitCrab</li>
-					
-					<li>Corpse_AA_DecayDrake</li>
-					<li>Corpse_AA_FissionMouse</li>
-					<li>Corpse_AA_FissionMouseSecond</li>
-					<li>Corpse_AA_FissionMouseThird</li>
-					<li>Corpse_AA_ShockGoat</li>
-					<li>Corpse_AA_OcularJelly</li>
-					<li>Corpse_AA_Skyeel</li>
-					<li>Corpse_AA_Radyak</li>
-					<li>Corpse_AA_SandLion</li>
-					<li>Corpse_AA_Mantrap</li>
-					<li>Corpse_AA_Gigantelope</li>
-					
-					<li>Corpse_AA_InfectedAerofleet</li>
-					<li>Corpse_AA_RedGoo</li>
-					<li>Corpse_AA_GreenGoo</li>
-					<li>Corpse_AA_RedSpore</li>
-					<li>Corpse_AA_Junglelisk</li>
-					<li>Corpse_AA_MycoidColossus</li>
-					<li>Corpse_AA_Agaripod</li>
+						<li>Corpse_AA_Wildpawn</li>
+						<li>Corpse_AA_BedBug</li>
+						<li>Corpse_AA_Needleroll</li>
+						<li>Corpse_AA_AnimusVox</li>
+						<li>Corpse_AA_PebbleMit</li>
+						<li>Corpse_AA_Bumbledrone</li>
+						<li>Corpse_AA_BumbledroneQueen</li>
+						<li>Corpse_AA_Thermadon</li>
+						<li>Corpse_AA_SandSquid</li>
+						<li>Corpse_AA_OvergrownColossus</li>
+						<li>Corpse_AA_GreatDevourer</li>
+						<li>Corpse_AA_BlizzariskClutchMother</li>					
+						<li>Corpse_AA_FeraliskClutchMother</li>
+						<li>Corpse_AA_DunealiskClutchMother</li>
+						<li>Corpse_AA_SummitCrab</li>
+
+						<li>Corpse_AA_DecayDrake</li>
+						<li>Corpse_AA_FissionMouse</li>
+						<li>Corpse_AA_FissionMouseSecond</li>
+						<li>Corpse_AA_FissionMouseThird</li>
+						<li>Corpse_AA_ShockGoat</li>
+						<li>Corpse_AA_OcularJelly</li>
+						<li>Corpse_AA_Skyeel</li>
+						<li>Corpse_AA_Radyak</li>
+						<li>Corpse_AA_SandLion</li>
+						<li>Corpse_AA_Mantrap</li>
+						<li>Corpse_AA_Gigantelope</li>
+
+						<li>Corpse_AA_InfectedAerofleet</li>
+						<li>Corpse_AA_RedGoo</li>
+						<li>Corpse_AA_GreenGoo</li>
+						<li>Corpse_AA_RedSpore</li>
+						<li>Corpse_AA_Junglelisk</li>
+						<li>Corpse_AA_MycoidColossus</li>
+						<li>Corpse_AA_Agaripod</li>
+						<li>Corpse_AA_FrostboundBehemoth</li>
+						<li>Corpse_AA_Frostling</li>
+
+						<li>Corpse_AA_NightRam</li>
+						<li>Corpse_AA_NightMule</li>
+						<li>Corpse_AA_CrepuscularBeetle</li>
+						<li>Corpse_AA_DuskRat</li>
+
+						<li>Corpse_AA_DesertAve</li>
+						<li>Corpse_AA_FrostAve</li>
+						<li>Corpse_AA_NightAve</li>
+						<li>Corpse_AA_RoyalAve</li>
+						<li>Corpse_AA_ChameleonYak</li>
+
+						<li>Corpse_AA_BloodShrimp</li>
+						<li>Corpse_AA_Cinderlisk</li>
+						<li>Corpse_AA_CrystalMit</li>
+						<li>Corpse_AA_Helixien</li>
+						<li>Corpse_AA_Razorjack</li>
+						<li>Corpse_AA_RipperHound</li>
+						<li>Corpse_AA_RoughPlatedMonitor</li>
+						<li>Corpse_AA_Swarmling</li>
 
 
-					
-					
 
 
 
-					
+
+
+
 
 					</thingDefs>
 				</filter>
@@ -101,67 +123,89 @@
 
 			<thingDefs>
 				<li>Corpse_AA_Aerofleet</li>
-					<li>Corpse_AA_ColossalAerofleet</li>
-					<li>Corpse_AA_BlackScarab</li>
-					<li>Corpse_AA_BlackSpelopede</li>
-					<li>Corpse_AA_BlackSpider</li>
-					<li>Corpse_AA_ArcticLion</li>
-					<li>Corpse_AA_Barbslinger</li>
-					<li>Corpse_AA_Blizzarisk</li>
-					<li>Corpse_AA_BoulderMit</li>
-					<li>Corpse_AA_Cactipine</li>
-					<li>Corpse_AA_DevilSheep</li>
-					<li>Corpse_AA_Dunealisk</li>
-					<li>Corpse_AA_Feralisk</li>
-					<li>Corpse_AA_Frostmite</li>
-					<li>Corpse_AA_Gallatross</li>
-					<li>Corpse_AA_Groundrunner</li>
-					<li>Corpse_AA_IronhuskBeetle</li>
-					<li>Corpse_AA_Lockjaw</li>
-					<li>Corpse_AA_MammothWorm</li>
-					<li>Corpse_AA_MeadowAve</li>
-					<li>Corpse_AA_MegaLouse</li>
-					<li>Corpse_AA_Needlepost</li>
-					<li>Corpse_AA_Nightling</li>
-					<li>Corpse_AA_RaptorShrimp</li>
-					<li>Corpse_AA_TetraSlug</li>
-					<li>Corpse_AA_Wildpod</li>
+				<li>Corpse_AA_ColossalAerofleet</li>
+				<li>Corpse_AA_BlackScarab</li>
+				<li>Corpse_AA_BlackSpelopede</li>
+				<li>Corpse_AA_BlackSpider</li>
+				<li>Corpse_AA_ArcticLion</li>
+				<li>Corpse_AA_Barbslinger</li>
+				<li>Corpse_AA_Blizzarisk</li>
+				<li>Corpse_AA_BoulderMit</li>
+				<li>Corpse_AA_Cactipine</li>
+				<li>Corpse_AA_DevilSheep</li>
+				<li>Corpse_AA_Dunealisk</li>
+				<li>Corpse_AA_Feralisk</li>
+				<li>Corpse_AA_Frostmite</li>
+				<li>Corpse_AA_Gallatross</li>
+				<li>Corpse_AA_Groundrunner</li>
+				<li>Corpse_AA_IronhuskBeetle</li>
+				<li>Corpse_AA_Lockjaw</li>
+				<li>Corpse_AA_MammothWorm</li>
+				<li>Corpse_AA_MeadowAve</li>
+				<li>Corpse_AA_MegaLouse</li>
+				<li>Corpse_AA_Needlepost</li>
+				<li>Corpse_AA_Nightling</li>
+				<li>Corpse_AA_RaptorShrimp</li>
+				<li>Corpse_AA_TetraSlug</li>
+				<li>Corpse_AA_Wildpod</li>
 
-					<li>Corpse_AA_Wildpawn</li>
-					<li>Corpse_AA_BedBug</li>
-					<li>Corpse_AA_Needleroll</li>
-					<li>Corpse_AA_AnimusVox</li>
-					<li>Corpse_AA_PebbleMit</li>
-					<li>Corpse_AA_Bumbledrone</li>
-					<li>Corpse_AA_BumbledroneQueen</li>
-					<li>Corpse_AA_Thermadon</li>
-					<li>Corpse_AA_SandSquid</li>
-					<li>Corpse_AA_OvergrownColossus</li>
-					<li>Corpse_AA_GreatDevourer</li>
-					<li>Corpse_AA_BlizzariskClutchMother</li>					
-					<li>Corpse_AA_FeraliskClutchMother</li>
-					<li>Corpse_AA_DunealiskClutchMother</li>
-					<li>Corpse_AA_SummitCrab</li>
-					
-					<li>Corpse_AA_DecayDrake</li>
-					<li>Corpse_AA_FissionMouse</li>
-					<li>Corpse_AA_FissionMouseSecond</li>
-					<li>Corpse_AA_FissionMouseThird</li>
-					<li>Corpse_AA_ShockGoat</li>
-					<li>Corpse_AA_OcularJelly</li>
-					<li>Corpse_AA_Skyeel</li>
-					<li>Corpse_AA_Radyak</li>
-					<li>Corpse_AA_SandLion</li>
-					<li>Corpse_AA_Mantrap</li>
-					<li>Corpse_AA_Gigantelope</li>
-					
-					<li>Corpse_AA_InfectedAerofleet</li>
-					<li>Corpse_AA_RedGoo</li>
-					<li>Corpse_AA_GreenGoo</li>
-					<li>Corpse_AA_RedSpore</li>
-					<li>Corpse_AA_Junglelisk</li>
-					<li>Corpse_AA_MycoidColossus</li>
-					<li>Corpse_AA_Agaripod</li>
+				<li>Corpse_AA_Wildpawn</li>
+				<li>Corpse_AA_BedBug</li>
+				<li>Corpse_AA_Needleroll</li>
+				<li>Corpse_AA_AnimusVox</li>
+				<li>Corpse_AA_PebbleMit</li>
+				<li>Corpse_AA_Bumbledrone</li>
+				<li>Corpse_AA_BumbledroneQueen</li>
+				<li>Corpse_AA_Thermadon</li>
+				<li>Corpse_AA_SandSquid</li>
+				<li>Corpse_AA_OvergrownColossus</li>
+				<li>Corpse_AA_GreatDevourer</li>
+				<li>Corpse_AA_BlizzariskClutchMother</li>					
+				<li>Corpse_AA_FeraliskClutchMother</li>
+				<li>Corpse_AA_DunealiskClutchMother</li>
+				<li>Corpse_AA_SummitCrab</li>
+
+				<li>Corpse_AA_DecayDrake</li>
+				<li>Corpse_AA_FissionMouse</li>
+				<li>Corpse_AA_FissionMouseSecond</li>
+				<li>Corpse_AA_FissionMouseThird</li>
+				<li>Corpse_AA_ShockGoat</li>
+				<li>Corpse_AA_OcularJelly</li>
+				<li>Corpse_AA_Skyeel</li>
+				<li>Corpse_AA_Radyak</li>
+				<li>Corpse_AA_SandLion</li>
+				<li>Corpse_AA_Mantrap</li>
+				<li>Corpse_AA_Gigantelope</li>
+
+				<li>Corpse_AA_InfectedAerofleet</li>
+				<li>Corpse_AA_RedGoo</li>
+				<li>Corpse_AA_GreenGoo</li>
+				<li>Corpse_AA_RedSpore</li>
+				<li>Corpse_AA_Junglelisk</li>
+				<li>Corpse_AA_MycoidColossus</li>
+				<li>Corpse_AA_Agaripod</li>
+				<li>Corpse_AA_FrostboundBehemoth</li>
+				<li>Corpse_AA_Frostling</li>
+
+				<li>Corpse_AA_NightRam</li>
+				<li>Corpse_AA_NightMule</li>
+				<li>Corpse_AA_CrepuscularBeetle</li>
+				<li>Corpse_AA_DuskRat</li>
+
+				<li>Corpse_AA_DesertAve</li>
+				<li>Corpse_AA_FrostAve</li>
+				<li>Corpse_AA_NightAve</li>
+				<li>Corpse_AA_RoyalAve</li>
+				<li>Corpse_AA_ChameleonYak</li>
+
+				<li>Corpse_AA_BloodShrimp</li>
+				<li>Corpse_AA_Cinderlisk</li>
+				<li>Corpse_AA_CrystalMit</li>
+				<li>Corpse_AA_Helixien</li>
+				<li>Corpse_AA_Razorjack</li>
+				<li>Corpse_AA_RipperHound</li>
+				<li>Corpse_AA_RoughPlatedMonitor</li>
+				<li>Corpse_AA_Swarmling</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
@@ -172,7 +216,7 @@
 		</skillRequirements>
 	</RecipeDef>
 
-	
+
 
 
 
