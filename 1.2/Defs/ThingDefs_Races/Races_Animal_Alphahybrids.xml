@@ -56,6 +56,7 @@
 		<race>
 			<thinkTreeMain>GR_DraftableAnimal</thinkTreeMain>
 			<herdAnimal>false</herdAnimal>
+			<herdMigrationAllowed>false</herdMigrationAllowed>
 			<predator>true</predator>
 			<body>BeetleLike</body>
 			<baseHungerRate>1.2</baseHungerRate>
@@ -1238,7 +1239,6 @@
 
 		<race>
 			<thinkTreeMain>AA_AnimalNuzzlerDraftable</thinkTreeMain>
-
 			<body>QuadrupedAnimalWithPawsAndTail</body>
 			<predator>false</predator>
 			<baseBodySize>0.35</baseBodySize>
@@ -1246,6 +1246,7 @@
 			<baseHealthScale>0.3</baseHealthScale>
 			<foodType>VegetarianRoughAnimal</foodType>
 			<herdAnimal>false</herdAnimal>
+			<herdMigrationAllowed>false</herdMigrationAllowed>
 			<trainability>Intermediate</trainability>
 			<wildness>0.65</wildness>
 			<nuzzleMtbHours>16</nuzzleMtbHours>
@@ -1295,7 +1296,8 @@
 	<PawnKindDef ParentName="AnimalKindBaseFox">
 		<defName>GR_AnimusHare</defName>
 		<label>animus hare</label>
-
+		<combatPower>70</combatPower>
+		<canArriveManhunter>false</canArriveManhunter>
 		<race>GR_AnimusHare</race>
 		<lifeStages>
 			<li>
@@ -1469,7 +1471,7 @@
 			<baseBodySize>3</baseBodySize>
 			<baseHealthScale>9</baseHealthScale>
 			<foodType>CarnivoreAnimal, OvivoreAnimal</foodType>
-
+			<herdMigrationAllowed>false</herdMigrationAllowed>
 			<packAnimal>false</packAnimal>
 			<wildness>0.80</wildness>
 			<lifeExpectancy>150</lifeExpectancy>
@@ -1665,6 +1667,7 @@
 		<race>
 			<thinkTreeMain>GR_DraftableAnimal</thinkTreeMain>
 			<herdAnimal>false</herdAnimal>
+			<herdMigrationAllowed>false</herdMigrationAllowed>
 			<predator>true</predator>
 			<body>AA_SnakeWithTwoLimbs</body>
 			<baseHungerRate>0.55</baseHungerRate>
