@@ -106,6 +106,37 @@
 						<li>Corpse_AA_RoughPlatedMonitor</li>
 						<li>Corpse_AA_Swarmling</li>
 
+						<li>Corpse_AA_Agaripawn</li>
+
+						<li>Corpse_AA_BumbledroneHierophant</li>
+						<li>Corpse_AA_TarGuzzler</li>
+						<li>Corpse_AA_Atispec</li>
+						<li>Corpse_AA_Plasmorph</li>
+
+						<li>Corpse_AA_FireWasp</li>
+						<li>Corpse_AA_ChemfuelMyrmidon</li>
+						<li>Corpse_AA_SpinedGow</li>
+						<li>Corpse_AA_Metallovore</li>
+
+						<li>Corpse_AA_AngelMoth</li>
+						<li>Corpse_AA_RayHound</li>
+
+						<li>Corpse_AA_AcanthamoebaGiganteaSmall</li>
+						<li>Corpse_AA_AcanthamoebaGiganteaLarge</li>
+						<li>Corpse_AA_AcanthamoebaGiganteaHuge</li>
+						<li>Corpse_AA_Animalisk</li>
+						<li>Corpse_AA_DrainerLarva</li>
+						<li>Corpse_AA_Drainer</li>
+						<li>Corpse_AA_PhoenixOwlcat</li>
+						<li>Corpse_AA_MatureFleshbeast</li>
+
+						<li>Corpse_AA_SandProwler</li>
+						<li>Corpse_AA_FlamingoPhoenix</li>
+						<li>Corpse_AA_Terramorph</li>
+						<li>Corpse_AA_LuciferBug</li>
+						<li>Corpse_AA_Mime</li>
+						<li>Corpse_AA_FungalHusk</li>
+
 
 
 
@@ -206,6 +237,37 @@
 				<li>Corpse_AA_RipperHound</li>
 				<li>Corpse_AA_RoughPlatedMonitor</li>
 				<li>Corpse_AA_Swarmling</li>
+
+				<li>Corpse_AA_Agaripawn</li>
+
+				<li>Corpse_AA_BumbledroneHierophant</li>
+				<li>Corpse_AA_TarGuzzler</li>
+				<li>Corpse_AA_Atispec</li>
+				<li>Corpse_AA_Plasmorph</li>
+
+				<li>Corpse_AA_FireWasp</li>
+				<li>Corpse_AA_ChemfuelMyrmidon</li>
+				<li>Corpse_AA_SpinedGow</li>
+				<li>Corpse_AA_Metallovore</li>
+
+				<li>Corpse_AA_AngelMoth</li>
+				<li>Corpse_AA_RayHound</li>
+
+				<li>Corpse_AA_AcanthamoebaGiganteaSmall</li>
+				<li>Corpse_AA_AcanthamoebaGiganteaLarge</li>
+				<li>Corpse_AA_AcanthamoebaGiganteaHuge</li>
+				<li>Corpse_AA_Animalisk</li>
+				<li>Corpse_AA_DrainerLarva</li>
+				<li>Corpse_AA_Drainer</li>
+				<li>Corpse_AA_PhoenixOwlcat</li>
+				<li>Corpse_AA_MatureFleshbeast</li>
+
+				<li>Corpse_AA_SandProwler</li>
+				<li>Corpse_AA_FlamingoPhoenix</li>
+				<li>Corpse_AA_Terramorph</li>
+				<li>Corpse_AA_LuciferBug</li>
+				<li>Corpse_AA_Mime</li>
+				<li>Corpse_AA_FungalHusk</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 		<products>
