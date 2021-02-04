@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+
+	<MVCF.ModDef>
+		<defName>GR_GeneticRimAlphaAnimals</defName>
+		<label>Genetic Rim - Alpha Animals Patch</label>
+		<description>Adding animal ranged attacks for Genetic Rim - Alpha Animals Patch creatures</description>
+		<Features>
+			<RangedAnimals>true</RangedAnimals>
+			<HediffVerbs>true</HediffVerbs>
+			<IntegratedToggle>true</IntegratedToggle>
+		</Features>
+	</MVCF.ModDef>
+
+
+
+
+
+
+</Defs>

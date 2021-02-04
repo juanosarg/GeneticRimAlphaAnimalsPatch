@@ -244,7 +244,7 @@
 				<range>20</range>
 				<soundCast>AA_Throw</soundCast>
 				<muzzleFlashScale>0</muzzleFlashScale>
-				<!--Commanility determines how frequent this range verb is chosen.-->
+				<label>exploding web</label>
 				<commonality>.8</commonality>
 			</li>
 
@@ -453,7 +453,7 @@
 				<range>20</range>
 				<soundCast>AA_DartSound</soundCast>
 				<muzzleFlashScale>0</muzzleFlashScale>
-				<!--Commanility determines how frequent this range verb is chosen.-->
+				<label>tiny venomous barb</label>
 				<commonality>.99</commonality>
 			</li>
 
@@ -1445,7 +1445,7 @@
 				<range>20</range>
 				<soundCast>AA_DartSound</soundCast>
 				<muzzleFlashScale>0</muzzleFlashScale>
-				<!--Commanility determines how frequent this range verb is chosen.-->
+				<label>huge quill</label>
 				<commonality>.8</commonality>
 			</li>
 
