@@ -259,7 +259,7 @@
 				<resourceAmount>15</resourceAmount>
 				<customResourceString>ChemfuelProd</customResourceString>
 			</li>
-			<li Class="AlphaBehavioursAndEvents.CompProperties_AnimalProduct">
+			<li Class="AnimalBehaviours.CompProperties_AnimalProduct">
 				<resourceDef>GR_Boomthread</resourceDef>
 				<gatheringIntervalDays>16</gatheringIntervalDays>
 				<resourceAmount>33</resourceAmount>
@@ -461,7 +461,7 @@
 		</verbs>
 
 		<comps>
-			<li Class="AlphaBehavioursAndEvents.CompProperties_LightSustenance">
+			<li Class="AnimalBehaviours.CompProperties_LightSustenance">
 
 			</li>
 
@@ -640,13 +640,13 @@
 				<customResourceString>VanillaJellyGrowth</customResourceString>
 
 			</li>
-			<li Class="AlphaBehavioursAndEvents.CompProperties_AnimalProduct">
+			<li Class="AnimalBehaviours.CompProperties_AnimalProduct">
 				<resourceDef>AA_BlueGel</resourceDef>
 				<gatheringIntervalDays>3</gatheringIntervalDays>
 				<resourceAmount>6</resourceAmount>
 				<customResourceString>AA_BlueGel</customResourceString>
 			</li>
-			<li Class="AlphaBehavioursAndEvents.CompProperties_AsexualReproduction">
+			<li Class="AnimalBehaviours.CompProperties_AsexualReproduction">
 
 				<reproductionIntervalDays>9</reproductionIntervalDays>
 				<customString>Asexual fission in: </customString>
@@ -1663,7 +1663,7 @@
 				<dinostamina>true</dinostamina>
 				<adrenalineburst>true</adrenalineburst>
 			</li>
-			<li Class="AlphaBehavioursAndEvents.CompProperties_Regeneration">
+			<li Class="AnimalBehaviours.CompProperties_Regeneration">
 				<rateInTicks>20</rateInTicks>
 
 			</li>
